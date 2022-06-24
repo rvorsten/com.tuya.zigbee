@@ -33,6 +33,9 @@ Sensors
     _TZ3000_i8jfiezr / TS0201
     TUYATEC-v3uxbuxy / RH3052
 
+- Temperature and Humity Sensor (without battery level reporting)
+    _TZ3000_bguser20 / TS0201
+
 - LCD Temperature and Humidity Sensor
     _TZ2000_a476raq2 / TS0201
     _TZ2000_xogb73am / TS0201

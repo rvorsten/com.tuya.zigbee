@@ -1,5 +1,5 @@
 {
-  "id": "temphumidsensor",
+  "id": "temphumidsensor2",
   "name": {
     "en": "Temperature & Humidity Sensor"
   },
@@ -8,36 +8,17 @@
   "connectivity": ["zigbee"],
   "capabilities": [
     "measure_temperature",
-    "measure_humidity",
-    "measure_battery",
-    "alarm_battery"
+    "measure_humidity"
   ],
-  "energy": {
-    "batteries": [
-      "CR2032"
-    ]
-  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.png",
     "small": "{{driverAssetsPath}}/images/small.png"
   },
   "zigbee": {
     "manufacturerName": [
-      "TUYATEC-g3gl6cgy",
-      "TUYATEC-Bfq2i2Sy",
-      "TUYATEC-abkehqus",
-      "TUYATEC-yg5dcbfu",
-      "TUYATEC-prhs1rsd",
-      "TUYATEC-gqhxixyk",
-      "TUYATEC-vmgh3fxd",
-      "TUYATEC-ojmxeikg",
-      "TUYATEC-1g3tawnp",
-      "_TZ3000_i8jfiezr",
-      "TUYATEC-v3uxbuxy",
-      "_TZ3000_dowj6gyi"
+      "_TZ3000_bguser20"
     ],
     "productId": [
-      "RH3052",
       "TS0201"
     ],
     "endpoints": {
